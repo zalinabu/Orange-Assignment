@@ -9,5 +9,9 @@ public class Zalina {
         WebDriver driver = new ChromeDriver();
         driver.get("https://orangehrm-demo-6x.orangehrmlive.com/client/#/dashboard");
         driver.findElement(By.id("btnLogin")).click();
+        driver.findElement(By.xpath("//li[@id='menu_news_More']")).click();
+        driver.findElement(By.xpath(" //a[@id='menu_news_viewNewsArticles']")).click();
+
+
     }
 }
