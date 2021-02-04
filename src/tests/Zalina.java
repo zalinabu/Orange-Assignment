@@ -9,7 +9,7 @@ import java.util.Map;
 public class Zalina {
     public static void main(String[] args) throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", "/Users/oleksiinikitenko/Desktop/Selenium/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/davidtsutskiridze/Project/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://orangehrm-demo-6x.orangehrmlive.com/client/#/dashboard");
         driver.findElement(By.id("btnLogin")).click();
@@ -20,5 +20,7 @@ public class Zalina {
 
 
     }
+
+
 }
 
