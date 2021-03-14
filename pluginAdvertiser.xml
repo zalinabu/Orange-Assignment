@@ -1391,6 +1391,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="mvnRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Mvn" pluginName="Maven Runner" pluginId="MvnRunner" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
