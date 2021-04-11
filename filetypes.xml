@@ -5,6 +5,7 @@
       <mapping pattern="note" type="AUTO_DETECTED" />
       <mapping pattern="Scenarios" type="AUTO_DETECTED" />
       <mapping pattern="Day1!" type="AUTO_DETECTED" />
+      <mapping pattern="cucumber-framework-1" type="AUTO_DETECTED" />
       <mapping pattern="Zalina" type="AUTO_DETECTED" />
       <mapping pattern="TaskSchema" type="AUTO_DETECTED" />
       <mapping pattern="Orbitz_Task" type="JAVA" />
